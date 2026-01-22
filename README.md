@@ -5,7 +5,7 @@
 
 ---
 
-### [📄 Click Here to Read the Full Thesis Paper](Thesis_Final_Post.pdf)
+### [Click Here to Read the Full Thesis Paper](Thesis_Final_Post.pdf)
 
 ## Project Overview
 This repository contains the end-to-end research pipeline for my senior honors thesis. The project investigates the relationship between campaign finance and legislative discourse by applying **Machine Learning** and **Structural Topic Modeling (STM)** to over a century of congressional records.
@@ -37,7 +37,8 @@ This project integrates the following primary sources:
 ## Reproducibility Note
 The code is structured to be modular and reproducible. While file paths are currently configured for a local environment, I am in the process of updating scripts to use relative paths for easier cross-platform execution.
 
-## 📩 Contact
+## Contact
 **Name:** Austin Waterhouse
 **Email:** 2austin99@gmail.com 
+
 *I am happy to discuss the methodology, data construction challenges, or specific findings in detail.*
